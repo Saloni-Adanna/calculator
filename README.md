@@ -30,9 +30,8 @@ Prasahanth Kumar Kakarla|99003557|| | |
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|| ||
 Mokshith B|99003560| || |
 Vanaparty Srikarani|99003561| |||
-Vadloori Pavani|99003562| Requ|1|1|
-Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
-Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|2|2|
-
+Vadloori Pavani|99003562| ||||
+Saloni Adanna|99003563|0|2|2|0|
+Dinesh|99003564|||||
 
 
