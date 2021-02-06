@@ -16,7 +16,7 @@ Prasahanth Kumar Kakarla|99003557|Integrator,Make file|2 | 2|
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|Requirements,AND,OR logical functions| 1|1|
 Mokshith B|99003560| Implementation,Factorial and prime|3 | 3|
 Vanaparty Srikarani (stepin105090)|99003561|uploaded resources for uml,Decimal to binary,hexadecimal to binary conversions|2|2|
-Vadloori Pavani|99003562| Requirements,Addition, subtraction|1|1|
+Vadloori Pavani(104950)|99003562| Requirements,Addition, subtraction|1|1|
 Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
 Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|2|2|
 
@@ -30,7 +30,7 @@ Prasahanth Kumar Kakarla|99003557|4|2 |6|0|
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|0|2 |2|0|
 Mokshith B|99003560| 2|4|6 |0|
 Vanaparty Srikarani(stepin105090)|99003561|0 |2|2|0|
-Vadloori Pavani|99003562| 0|2|2|0|
+Vadloori Pavani(104950)|99003562| 0|2|2|0|
 Saloni Adanna|99003563|0|2|2|0|
 Dinesh|99003564|0|4|4|0|
 
