@@ -24,7 +24,7 @@ Test status
 
 Name|Number|HL|LL|Test cases passed |Test cases failed|
 ----|------|--|--|------------------|-----------------|
-Alen RejiKokkad|99003553|0|6|all|none|
+Alen RejiKokkad|99003553|0|6|7|0|
 Bandari Manushna|99003556|| | |
 Prasahanth Kumar Kakarla|99003557|| | |
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|| ||
