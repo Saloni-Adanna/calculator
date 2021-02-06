@@ -6,7 +6,7 @@
 ![cppcheck-action](https://github.com/99003560/calculator/workflows/cppcheck-action/badge.svg)
 ![Unit testing](https://github.com/99003560/calculator/workflows/Unit%20testing/badge.svg)
 
-
+Team summary
 
 Name|number|Features|Issues raised|Issues resolved|
 ----|------|--------|-------------|---------------|
@@ -18,4 +18,21 @@ Mokshith B|99003560| Implementation,Factorial and prime|3 | 3|
 Vanaparty Srikarani|99003561| Decimal to binary,hexadecimal to binary conversions|2|2|
 Vadloori Pavani|99003562| Requirements,Addition, subtraction|1|1|
 Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
-Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|6|6|
+Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|2|2|
+
+Test status
+
+Name|Number|HL|LL|Test cases passed |Test cases failed|
+----|------|--|--|------------------|-----------------|
+Alen RejiKokkad|99003553|0|2|all|none|
+Bandari Manushna|99003556|| | |
+Prasahanth Kumar Kakarla|99003557|| | |
+Nimmala Tulasi Durga Punyavathi pushpa|99003558|| ||
+Mokshith B|99003560| || |
+Vanaparty Srikarani|99003561| |||
+Vadloori Pavani|99003562| Requ|1|1|
+Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
+Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|2|2|
+
+
+
