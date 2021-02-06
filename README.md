@@ -34,4 +34,11 @@ Vadloori Pavani(104950)|99003562| 0|2|2|0|
 Saloni Adanna|99003563|0|2|2|0|
 Dinesh|99003564|0|4|4|0|
 
+BEST RESOURCES FOR UML:
+![](https://tallyfy.com/uml-diagram/)
+![](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
+
+ Video on how to create UML diagrams:
+![](https://www.youtube.com/watch?v=4WBsi6ChIAI&t=11s)
+
 
