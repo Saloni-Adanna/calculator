@@ -10,7 +10,7 @@ Team summary
 
 Name|number|Features|Issues raised|Issues resolved|
 ----|------|--------|-------------|---------------|
-Alen Reji Kokkad|99003553|Exponential, Modulus, Square root functions,Test plan| 3| 3|
+Alen Reji Kokkad (stepin104484)|99003553|Exponential, Modulus, Square root functions,Test plan| 3| 3|
 Bandari Manushna|99003556|NAND,NOR,NOT functions,Detailed requirements| 2|2 |
 Prasahanth Kumar Kakarla|99003557|Integrator,Make file|2 | 2|
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|Requirements,AND,OR logical functions| 1|1|
@@ -24,7 +24,7 @@ Test status
 
 Name|Number|HL|LL|Test cases passed |Test cases failed|
 ----|------|--|--|------------------|-----------------|
-Alen Reji Kokkad|99003553|0|6|7|0|
+Alen Reji Kokkad (stepin104484)|99003553|0|6|7|0|
 Bandari Manushna|99003556|| | |
 Prasahanth Kumar Kakarla|99003557|| | |
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|| ||
