@@ -25,13 +25,13 @@ Test status
 Name|Number|HL|LL|Test cases passed |Test cases failed|
 ----|------|--|--|------------------|-----------------|
 Alen Reji Kokkad (stepin104484)|99003553|0|6|7|0|
-Bandari Manushna|99003556|| | |
-Prasahanth Kumar Kakarla|99003557|| | |
+Bandari Manushna|99003556|0|3 |3 |0|
+Prasahanth Kumar Kakarla|99003557|2|2 |4 |0|
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|0|2 |2|0|
-Mokshith B|99003560| || |
+Mokshith B|99003560| 2|2|4 |0|
 Vanaparty Srikarani|99003561|0 |2|2|0|
 Vadloori Pavani|99003562| 0|2|2|0|
 Saloni Adanna|99003563|0|2|2|0|
-Dinesh|99003564|||||
+Dinesh|99003564|2|2|4|0|
 
 
