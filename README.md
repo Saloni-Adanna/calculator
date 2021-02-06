@@ -29,8 +29,8 @@ Bandari Manushna|99003556|| | |
 Prasahanth Kumar Kakarla|99003557|| | |
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|| ||
 Mokshith B|99003560| || |
-Vanaparty Srikarani|99003561| |||
-Vadloori Pavani|99003562| ||||
+Vanaparty Srikarani|99003561|0 |2|2|0|
+Vadloori Pavani|99003562| 0|2|2|0|
 Saloni Adanna|99003563|0|2|2|0|
 Dinesh|99003564|||||
 
