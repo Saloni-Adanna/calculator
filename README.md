@@ -41,7 +41,7 @@ BEST RESOURCES FOR UML:
  Video on how to create UML diagrams:
 ![](https://www.youtube.com/watch?v=4WBsi6ChIAI&t=11s)
 
-Challenges faced
+CHALLENGES FACED:
 
 |no |challenges                                                  |
 |---|------------------------------------------------------------|
