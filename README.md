@@ -17,4 +17,5 @@ Nimmala Tulasi Durga Punyavathi pushpa|99003558|AND,OR logical functions| 1|1|
 Mokshith B|99003560| Implementation,Factorial and prime|3 | 3|
 Vanaparty Srikarani|99003561| Decimal to binary,hexadecimal to binary conversions|2|2|
 Vadloori Pavani|99003562| Addition, subtraction|2|2|
+Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
 Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|6|6|
