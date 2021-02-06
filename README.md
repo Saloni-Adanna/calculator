@@ -28,7 +28,7 @@ Alen Reji Kokkad (stepin104484)|99003553|0|6|7|0|
 Bandari Manushna|99003556|0|3 |3 |0|
 Prasahanth Kumar Kakarla|99003557|4|2 |6|0|
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|0|2 |2|0|
-Mokshith B|99003560| 2|2|4 |0|
+Mokshith B|99003560| 2|4|6 |0|
 Vanaparty Srikarani|99003561|0 |2|2|0|
 Vadloori Pavani|99003562| 0|2|2|0|
 Saloni Adanna|99003563|0|2|2|0|
