@@ -10,9 +10,11 @@
 
 Name|number|Features|Issues raised|Issues resolved|
 ----|------|--------|-------------|---------------|
-Alen RejiKokkad|99003553|Test plan,low level requirements,low level designing on exponential function| | |
-Bandari Manushna|99003556|Detailed requirements,Low level designing on NAND,NOR,NOT functions| | |
-Prasahanth Kumar Kakarla|99003557|2 | 2|
-Nimmala Tulasi Durga Punyavathi pushpa|99003558|Define your product,SWOT analysis,low level designing on AND,OR logical functions| |r support |
-Mokshith B|99003560| |  | |
-Vanaparty Srikarani|99003561|
+Alen RejiKokkad|99003553|exponential function,Test plan| 3| 3|
+Bandari Manushna|99003556|NAND,NOR,NOT functions,Detailed requirements| 2|2 |
+Prasahanth Kumar Kakarla|99003557|Integrator,Make file|2 | 2|
+Nimmala Tulasi Durga Punyavathi pushpa|99003558|AND,OR logical functions| 1|1|
+Mokshith B|99003560| Implementation,Factorial and prime|3 | 3|
+Vanaparty Srikarani|99003561| Decimal to binary,hexadecimal to binary conversions|2|2|
+Vadloori Pavani|99003562| Addition, subtraction|2|2|
+Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|6|6|
