@@ -27,7 +27,7 @@ Name|Number|HL|LL|Test cases passed |Test cases failed|
 Alen Reji Kokkad (stepin104484)|99003553|0|6|7|0|
 Bandari Manushna|99003556|| | |
 Prasahanth Kumar Kakarla|99003557|| | |
-Nimmala Tulasi Durga Punyavathi pushpa|99003558|| ||
+Nimmala Tulasi Durga Punyavathi pushpa|99003558|0|2 |2|0|
 Mokshith B|99003560| || |
 Vanaparty Srikarani|99003561|0 |2|2|0|
 Vadloori Pavani|99003562| 0|2|2|0|
