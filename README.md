@@ -14,7 +14,7 @@ Alen Reji Kokkad (stepin104484)|99003553|Exponential, Modulus, Square root funct
 Bandari Manushna|99003556|NAND,NOR,NOT functions,Detailed requirements| 2|2 |
 Prasahanth Kumar Kakarla|99003557|Integrator,Make file|2 | 2|
 Nimmala Tulasi Durga Punyavathi pushpa|99003558|Requirements,AND,OR logical functions| 1|1|
-Mokshith B|99003560| Implementation,Factorial and prime|3 | 3|
+Mokshith B|99003560| Implementation, workflows Action,Factorial and prime|3 | 3|
 Vanaparty Srikarani (stepin105090)|99003561|uploaded resources for uml,Decimal to binary,hexadecimal to binary conversions|2|2|
 Vadloori Pavani(104950)|99003562| Requirements,Addition, subtraction|1|1|
 Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
