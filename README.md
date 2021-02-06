@@ -13,9 +13,9 @@ Name|number|Features|Issues raised|Issues resolved|
 Alen RejiKokkad|99003553|exponential function,Test plan| 3| 3|
 Bandari Manushna|99003556|NAND,NOR,NOT functions,Detailed requirements| 2|2 |
 Prasahanth Kumar Kakarla|99003557|Integrator,Make file|2 | 2|
-Nimmala Tulasi Durga Punyavathi pushpa|99003558|AND,OR logical functions| 1|1|
+Nimmala Tulasi Durga Punyavathi pushpa|99003558|Requirements,AND,OR logical functions| 1|1|
 Mokshith B|99003560| Implementation,Factorial and prime|3 | 3|
 Vanaparty Srikarani|99003561| Decimal to binary,hexadecimal to binary conversions|2|2|
-Vadloori Pavani|99003562| Addition, subtraction|2|2|
+Vadloori Pavani|99003562| Requirements,Addition, subtraction|1|1|
 Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
 Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|6|6|
