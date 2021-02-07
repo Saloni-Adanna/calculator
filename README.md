@@ -6,21 +6,21 @@
 ![cppcheck-action](https://github.com/99003560/calculator/workflows/cppcheck-action/badge.svg)
 ![Unit testing](https://github.com/99003560/calculator/workflows/Unit%20testing/badge.svg)
 
-Team summary
+## Team summary
 
 Name|number|Features|Issues raised|Issues resolved|
 ----|------|--------|-------------|---------------|
-Alen Reji Kokkad (stepin104484)|99003553|Exponential, Modulus, Square root functions,Test plan| 3| 3|
+Alen Reji Kokkad|99003553|Exponential, Modulus, Square root functions,Test plan| 3| 3|
 Bandari Manushna|99003556|NAND,NOR,NOT functions,Detailed requirements| 2|2 |
-Prasahanth Kumar Kakarla|99003557|Integrator(1),Make file|2 | 2|
-Nimmala Tulasi Durga Punyavathi pushpa|99003558|Requirements,AND,OR logical functions| 1|1|
-Mokshith B|99003560| Integrator(2), Implementation, workflows Action,Factorial and prime|3 | 3|
+Prasahanth Kumar Kakarla|99003557|Make file|2 | 2|
+Nimmala Tulasi Durga Punyavathi pushpa|99003558|AND,OR logical functions| 1|1|
+Mokshith B|99003560|  Implementation, Factorial and prime|3 | 3|
 Vanaparty Srikarani (stepin105090)|99003561|uploaded resources for uml,Decimal to binary,hexadecimal to binary conversions|2|2|
-Vadloori Pavani(104950)|99003562| Requirements,Addition, subtraction|1|1|
-Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement|2|2|
+Vadloori Pavani|99003562| Addition, subtraction|1|1|
+Saloni Adanna|99003563|Multiplication,division,Requirements,Problem statement,Features|2|2 |
 Dinesh|99003564|Design,Binary to hexadecimal,binary to decimal|2|2|
 
-Test status
+## Test status
 
 Name|Number|HL|LL|Test cases passed |Test cases failed|
 ----|------|--|--|------------------|-----------------|
@@ -31,7 +31,7 @@ Nimmala Tulasi Durga Punyavathi pushpa|99003558|0|2 |2|0|
 Mokshith B|99003560| 2|4|6 |0|
 Vanaparty Srikarani(stepin105090)|99003561|0 |2|2|0|
 Vadloori Pavani(104950)|99003562| 0|2|2|0|
-Saloni Adanna|99003563|0|2|2|0|
+Saloni Adanna|99003563|0|4|4|0|
 Dinesh|99003564|0|4|4|0|
 
 BEST RESOURCES FOR UML:
@@ -45,9 +45,7 @@ CHALLENGES FACED:
 
 |no |challenges                                                  |
 |---|------------------------------------------------------------|
-| 1.| Problem with github desktop signin (99003557) |
-| 2.| Change in ownership of repository( Integrator is 99003560) |
+| 1.| Problem with github desktop signin |
+| 2.| Change in ownership of repository |
 | 3.| Issues with workflows |
 | 4.| Makefile issues|
-
-
